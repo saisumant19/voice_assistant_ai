@@ -8,17 +8,17 @@ This project is an AI Voice Assistant mobile application developed using React N
 
 ## Features
 
-- **Voice Activation**: Utilizes the `@react-native-community/voice` library to capture and convert voice input into text.
-- **Dynamic Conversational UI**: Displays chat messages interactively between the user and the assistant.
-- **Smart Response Mechanism**: Determines user intent to switch between textual and visual content generation.
+- **Voice Activation**: Utilizes the `@react-native-community/voice` library to capture and convert voice input into text
+- **Dynamic Conversational UI**: Displays chat messages interactively between the user and the assistant
+- **Smart Response Mechanism**: Determines user intent to switch between textual and visual content generation
 - **OpenAI Integration**:
-  - Textual Responses: Uses ChatGPT for generating text-based replies.
-  - Visual Responses: Engages DALL-E for creating images based on textual descriptions.
+  - Textual Responses: Uses ChatGPT for generating text-based replies
+  - Visual Responses: Engages DALL-E for creating images based on textual descriptions
 
 ## Optimizations
 
-- Achieved approximately 30% faster response times by optimizing asynchronous operations and state management.
-- Reduced API call overheads by around 50% through the implementation of a caching mechanism.
+- Achieved faster response times by optimizing asynchronous operations and state management
+- Reduced API call overheads through the implementation of a caching mechanism
 
 
 
